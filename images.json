@@ -10,17 +10,5 @@
         "uploaded_at": 1770487976,
         "description": "crazy ah guy",
         "pin": 1
-    },
-    {
-        "name": "bg.jpg",
-        "path": "uploads/bg.jpg",
-        "url": "https://raw.githubusercontent.com/pratik1120/storage/main/uploads/bg.jpg",
-        "display_datetime": [
-            "2026-02-07(Sat)18:59",
-            1770490740
-        ],
-        "uploaded_at": 1770490800,
-        "description": "ash",
-        "pin": 0
     }
 ]
