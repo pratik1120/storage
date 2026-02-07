@@ -1,1 +1,14 @@
-[]
+[
+    {
+        "name": "captured_image.png",
+        "path": "uploads/captured_image.png",
+        "url": "https://raw.githubusercontent.com/pratik1120/storage/main/uploads/captured_image.png",
+        "display_datetime": [
+            "2026-02-07(Sat)19:59",
+            1770494340
+        ],
+        "uploaded_at": 1770494383,
+        "description": "accha\r\n",
+        "pin": 0
+    }
+]
