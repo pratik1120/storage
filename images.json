@@ -1,1 +1,15 @@
-[]
+[
+    {
+        "title": "batman",
+        "name": "captured_image.png",
+        "path": "uploads/captured_image.png",
+        "url": "https://raw.githubusercontent.com/pratik1120/storage/main/uploads/captured_image.png",
+        "display_datetime": [
+            "2026-02-08(Sun)05:44",
+            1770529440
+        ],
+        "uploaded_at": 1770529490,
+        "description": "oh my god this is so cool. how am i ahh",
+        "pin": 0
+    }
+]
